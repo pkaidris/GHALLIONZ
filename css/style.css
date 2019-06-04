@@ -506,9 +506,9 @@ section.colored {
 .btn-color:hover,
 .btn-color:active,
 .btn-color:focus {
-  background-color: #f25375;
-  border-color: #f25375;
-  color: #fff;
+  background-color: #fff;
+  border-color: #fff;
+  color: #6FBE4F;
 }
 .btn-color-out {
   color: #6FBE4F;
